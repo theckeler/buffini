@@ -33,7 +33,7 @@ const PodiumProfile = ({ item, index, ranking }) => {
         <span>{item.points}</span>
       </li>
       <li className="font-medium text-gray-800 h-full">
-        <div className="py-3 px-2 flex items-center justify-center w-10 text-sm border bg-black text-white font-bold">
+        <div className="py-3 px-6 flex items-center justify-center w-10 text-sm border bg-black text-white font-bold rounded">
           {ranking}
         </div>
       </li>

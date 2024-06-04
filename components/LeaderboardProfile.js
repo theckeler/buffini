@@ -4,7 +4,7 @@ const LeaderboardProfile = ({ item, index, ranking }) => {
   return (
     <ul className="flex items-center gap-2">
       <li className="font-medium text-gray-800 h-full">
-        <div className="py-3 px-2 flex items-center justify-center w-10 text-sm border">
+        <div className="py-3 px-2 flex items-center justify-center w-10 text-sm border rounded">
           {ranking}
         </div>
       </li>
