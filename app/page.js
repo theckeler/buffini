@@ -2,17 +2,17 @@ import Leaderboard from "@/components/Leaderboard";
 
 const data = [
   {
-    photo: "https://i.pravatar.cc/300?u=asdasdasd?u=a3k5f9b2x1",
+    photo: "https://i.pravatar.cc/300?u=asdasdasd?u=6",
     name: "Alice Smith",
     points: 1250,
   },
   {
-    photo: "https://i.pravatar.cc/300?u=asdasdasd?u=b9n7v3k2y5",
+    photo: "https://i.pravatar.cc/300?u=asdasdasd?u=1",
     name: "Bob Johnson",
     points: 1180,
   },
   {
-    photo: "https://i.pravatar.cc/300?u=k8j4s5l2w1",
+    photo: "https://i.pravatar.cc/300?u=2",
     name: "Charlie Brown",
     points: 1020,
   },
@@ -47,7 +47,7 @@ const data = [
     points: 690,
   },
   {
-    photo: "https://i.pravatar.cc/300?u=f5d2l8r3k1",
+    photo: "https://i.pravatar.cc/300?u=7",
     name: "Jessica Jackson",
     points: 655,
   },
@@ -57,7 +57,7 @@ const data = [
     points: 620,
   },
   {
-    photo: "https://i.pravatar.cc/300?u=p5l2f3k8m9",
+    photo: "https://i.pravatar.cc/300?u=4567",
     name: "Liam Lee",
     points: 585,
     active: true,
@@ -93,12 +93,12 @@ const data = [
     points: 375,
   },
   {
-    photo: "https://i.pravatar.cc/300?u=k5d3l2n9f7",
+    photo: "https://i.pravatar.cc/300?u=555",
     name: "Samuel Sanchez",
     points: 340,
   },
   {
-    photo: "https://i.pravatar.cc/300?u=d8n3k2f5r7",
+    photo: "https://i.pravatar.cc/300?u=456456",
     name: "Taylor Taylor",
     points: 305,
   },
